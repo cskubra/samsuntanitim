@@ -1,0 +1,2 @@
+# samsuntanitim
+www.patika.dev
