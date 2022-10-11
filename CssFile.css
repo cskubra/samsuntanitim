@@ -1,0 +1,69 @@
+.side-bar {
+    position:fixed;
+    width:auto;
+    height:25%;
+    background:rgba(243, 229, 229, 0.418);
+    min-height:auto;
+  }
+
+.nav-position {
+    position:relative;
+    margin:20 50%;
+    text-align: center;
+    top:30%;
+    transform: translate(-5%);
+    font-weight: bold;
+}
+section {
+  text-shadow: 0 0 22px #f8f2f2, 0 0 20px #ffffff;
+    color:#000000;
+    margin-left: 10%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    
+}
+section .title {
+    text-shadow: 0 0 22px #201e1e, 0 0 20px #ffffff;
+      color: #c40909;
+      font-size: 120px;
+      padding-top: 100%;
+      font-weight: bold;
+      font-family:'Courier New', Courier, monospace;
+      margin-left: 100px;
+  }
+  section .samsun-icon img  {
+    height: 200px;
+    margin-left: 10%;
+}
+
+.side-bar1 {
+  position:fixed;
+  width:100%;
+  height:8%;
+  background:rgba(236, 241, 241, 0.397);
+  min-height:auto;
+}
+.nav-position1 {
+  position:absolute;
+  margin:30 -100%;
+  text-align: left;
+  top: auto;
+  transform: translate(-5%);
+  font-weight: bold;
+}
+
+section .samsun-icon1 img  {
+  
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+section .title1 {
+  text-shadow: 0 0 22px #201e1e, 0 0 20px #ffffff;
+    color: #ffffff;
+    font-size: 120px;
+   
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 1%;
+   
+}
